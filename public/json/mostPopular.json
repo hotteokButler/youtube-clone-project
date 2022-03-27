@@ -1,0 +1,1565 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "H_bYZ4fHzqY5HkOowJIwzC87cpM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "o1ql-FYYib8xYdPDtK8q2e_pRPM",
+      "id": "qF_rFrIUwAo",
+      "snippet": {
+        "publishedAt": "2022-03-26T12:28:18Z",
+        "channelId": "UCx6jsZ02B4K3SECUrkgPyzg",
+        "title": "[놀면 뭐하니?] 너 아직도 그런 거 보니?? 재석을 쩔쩔매게 하는 세바퀴 누나들 MBC 220326 방송 (Hangout with Yoo)",
+        "description": "#놀면뭐하니 #본방못봤니 #세바퀴\n★★★More 'Hangout with Yoo' clips are available★★★\n\niMBC\nhttp://www.imbc.com/broad/tv/ent/hangoutwithyoo/vod/\n\nWAVVE\nhttps://www.wavve.com/player/vod?programid=M_1004711100000100000&page=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qF_rFrIUwAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qF_rFrIUwAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qF_rFrIUwAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "놀면 뭐하니?",
+        "tags": [
+          "유재석",
+          "유플래시",
+          "유산슬",
+          "뽕포유",
+          "라섹",
+          "유르페우스",
+          "무도",
+          "놀면뭐하니",
+          "놀면 뭐하니",
+          "놀뭐",
+          "본방못봤니",
+          "놀면뭐하니 다시보기",
+          "놀면뭐하니 선공개",
+          "Hangout with Yoo",
+          "hangoutwithyoo",
+          "이미주",
+          "미주",
+          "희극인 미주",
+          "미주 예능",
+          "하하",
+          "하동훈",
+          "HAHA",
+          "정준하",
+          "Jeong Jun-ha",
+          "준하",
+          "신봉선",
+          "Shin Bong-sun",
+          "봉선",
+          "신미나",
+          "미나",
+          "조혜련",
+          "이경실",
+          "박미선",
+          "조동아리",
+          "막내재석",
+          "태보",
+          "해피투게더"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[놀면 뭐하니?] 너 아직도 그런 거 보니?? 재석을 쩔쩔매게 하는 세바퀴 누나들 MBC 220326 방송 (Hangout with Yoo)",
+          "description": "#놀면뭐하니 #본방못봤니 #세바퀴\n★★★More 'Hangout with Yoo' clips are available★★★\n\niMBC\nhttp://www.imbc.com/broad/tv/ent/hangoutwithyoo/vod/\n\nWAVVE\nhttps://www.wavve.com/player/vod?programid=M_1004711100000100000&page=1"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZZ9e_557vZb5Az_takJ_3ZGcyc8",
+      "id": "oGuwk9Riw0I",
+      "snippet": {
+        "publishedAt": "2022-03-25T00:56:38Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[월드컵최종예선] 대한민국 VS 이란 9차전 H/L l AFC 아시아지역 월드컵 최종예선",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[월드컵최종예선] 대한민국 VS 이란 9차전 H/L l AFC 아시아지역 월드컵 최종예선\n\n#2022카타르월드컵최종예선 #스포츠엔tvN #티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oGuwk9Riw0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oGuwk9Riw0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oGuwk9Riw0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "tvn",
+          "tvn sports",
+          "김민재",
+          "김영권",
+          "대한민국",
+          "레바논",
+          "베트남",
+          "사우디",
+          "손흥민",
+          "스포츠",
+          "시리아",
+          "아시아축구",
+          "월드컵",
+          "월드컵 3차전",
+          "월드컵 하이라이트",
+          "이라크",
+          "이란",
+          "이재성",
+          "일본",
+          "정우영",
+          "조규성",
+          "중국",
+          "축구",
+          "카타르월드컵",
+          "티빙에서스트리밍",
+          "해외축구",
+          "호주",
+          "황의조",
+          "황희찬"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[월드컵최종예선] 대한민국 VS 이란 9차전 H/L l AFC 아시아지역 월드컵 최종예선",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[월드컵최종예선] 대한민국 VS 이란 9차전 H/L l AFC 아시아지역 월드컵 최종예선\n\n#2022카타르월드컵최종예선 #스포츠엔tvN #티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zQ1VUVKuF6-_cR8GfHYqXET5FOM",
+      "id": "COKPoTo7Ql4",
+      "snippet": {
+        "publishedAt": "2022-03-26T13:31:00Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#갓구운클립] 한 가지로는 입이 안 차서 입짧은햇님😂 떡잎부터 독보적이었던 쩝쩝박사 햇님 자기님의 남다른 먹방 철학 | #유퀴즈온더블럭",
+        "description": "#갓구운클립 #유퀴즈온더블럭 #tvN\n\n구독하기 ☞ https://www.youtube.com/c/tvNDENT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/COKPoTo7Ql4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/COKPoTo7Ql4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/COKPoTo7Ql4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "tags": [
+          "Diggle",
+          "Tving",
+          "tvN",
+          "tvN D ENT",
+          "갓구운",
+          "갓구운 유퀴즈",
+          "갓구운클립",
+          "놀라운토요일",
+          "놀토 입짧은햇님",
+          "아줌마 잘먹지",
+          "유느님",
+          "유재석",
+          "유재석 먹방",
+          "유재석 햇님 먹방",
+          "유퀴즈",
+          "유퀴즈 다시보기",
+          "유퀴즈 댓글모음",
+          "유퀴즈 유재석",
+          "유퀴즈 입짧은햇님",
+          "유퀴즈 하이라이트",
+          "유퀴즈온더블럭",
+          "유퀴즈온더블럭 다시보기",
+          "유퀴즈온더블럭 유재석",
+          "유퀴즈온더블럭 입짧은햇님",
+          "유퀴즈온더블럭 조세호",
+          "유퀴즈온더블럭 하이라이트",
+          "유키즈",
+          "입짧은햇님",
+          "입짧은햇님 놀토",
+          "입짧은햇님 먹방",
+          "입짧은햇님 먹방 레전드",
+          "입짧은햇님 유퀴즈",
+          "입짧은햇님 유튜브",
+          "입짧은햇님 탱키",
+          "조세호",
+          "조셉",
+          "줄서는식당",
+          "피자쌈",
+          "피자쌈 레시피",
+          "해님",
+          "햇님 먹방",
+          "햇님 피자쌈",
+          "햇살이들"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[#갓구운클립] 한 가지로는 입이 안 차서 입짧은햇님😂 떡잎부터 독보적이었던 쩝쩝박사 햇님 자기님의 남다른 먹방 철학 | #유퀴즈온더블럭",
+          "description": "#갓구운클립 #유퀴즈온더블럭 #tvN\n\n구독하기 ☞ https://www.youtube.com/c/tvNDENT"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MNrLUpBB8Al-x5IVsPuQQJFXU8M",
+      "id": "-uptCEF2EKw",
+      "snippet": {
+        "publishedAt": "2022-03-25T01:12:34Z",
+        "channelId": "UCdHwip-Xqhp-nZIywpI67sw",
+        "title": "'파친코' - Pachinko — 첫 에피소드 전체 공개 | Apple TV+",
+        "description": "1920년대 일제 치하의 한국, 양진과 훈이 부부는 혹독한 현실로부터 하나밖에 없는 소중한 딸 선자를 보호하려 애쓴다. 1989년, 뉴욕에 사는 재일교포 솔로몬은 큰 계약을 성사시키려 한다. \n\n뉴욕타임스 베스트셀러에 선정된 동명의 소설을 원작으로 한 Apple Original 시리즈 '파친코' - Pachinko는 고국을 떠나 억척스럽게 생존과 번영을 추구하는 한인 이민 가족 4대의 삶과 꿈을 대하드라마 형식으로 그려냈다.\n\nYouTube에서 '파친코' - Pachinko의 첫 에피소드를 감상하세요. 2022년 4월 1일 오후 3시 59분까지 무료로 공개됩니다. '파친코' - Pachinko의 나머지 에피소드는 Apple TV+ 구독으로 즐길 수 있습니다.\n\n모자수 역에 소지 아라이, 솔로몬 역에 진 하, 양진 역에 정인지, 10대의 선자 역에 김민하, 한수 역에 이민호, 에츠코 역에 미나미 카호, 이삭 역에 노상현, 나오미 역에 안나 사웨이, 요셉 역에 한준우, 젊은 시절의 경희를 정은채가 연기했다. 더불어 톰 앤드루즈 역에 지미 심슨, 어린 선자 역에 유나, 아카데미 시상식에서 여우 조연상을 수상한 윤여정이 노년의 선자 역을 맡아 열연했다. \n\n'파친코' - Pachinko는 '더 테러', '더 킬링'을 제작한 수 휴가 각본을 쓰고 제작 과정을 지휘했다. 코고나다 감독은 하나의 파일럿 에피소드를 포함해 총 4편의 연출과 제작을 담당했고, 저스틴 전 감독이 나머지 에피소드 4편의 책임 프로듀서를 맡았다. 마이클 엘렌버그와 린제이 스프링어가 미디어 레즈의 책임 프로듀서로 이름을 올렸으며, 블루 마블 픽쳐스의 테레사 강-로우와 리처드 미들턴도 책임 프로듀서로 참여했다. 더불어 미디어 레즈의 대니 고린이 데이비드 킴 및 세바스티안 리와 함께 공동 책임 프로듀서를 담당했다.\n\nApple TV의 YouTube 채널을 구독하세요: https://apple.co/AppleTVYouTube\n\nApple TV를 팔로우하세요:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nApple TV+를 팔로우하세요:\nInstagram: https://instagram.com/appletvplus\nTwitter: https://twitter.com/AppleTVPlus\n\n다른 Apple TV+ 콘텐츠의 예고편 보기: https://apple.co/32qgOEJ\n\nApple TV+는 세계 최고의 제작진들이 선사하는 오리지널 콘텐츠를 제공하는 스트리밍 서비스입니다. Apple TV 앱에서 지금 감상하세요: https://apple.co/_AppleTVapp\nApple TV+는 Apple 기기가 없더라도 웹에서 원하는 브라우저를 이용해 시청할 수 있습니다. Apple TV+ 사이트에서 지금 감상하세요: https://tv.apple.com/kr\n\n#파친코 #1화 #전체공개 #AppleTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-uptCEF2EKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-uptCEF2EKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-uptCEF2EKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-uptCEF2EKw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-uptCEF2EKw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple 대한민국",
+        "tags": [
+          "파친코",
+          "예고편",
+          "파친코 예고편",
+          "공식 예고편",
+          "파친코 공식 예고편",
+          "이민호",
+          "안나 사웨이",
+          "정은채",
+          "윤여정",
+          "소지 아라이",
+          "진 하",
+          "정인지",
+          "김민하",
+          "수 휴",
+          "코고나다",
+          "저스틴 전",
+          "마이클 엘렌버그",
+          "첫 공개",
+          "소설",
+          "소설 원작",
+          "미니 시리즈",
+          "프로그램",
+          "시리즈",
+          "사랑",
+          "로맨스",
+          "한국",
+          "일본",
+          "애플 티비",
+          "애플 티비 파친코",
+          "apple tv",
+          "apple tv 파친코",
+          "apple tv 2022",
+          "2022 예고편",
+          "apple",
+          "tv",
+          "애플",
+          "티비",
+          "애플 티비 플러스",
+          "애플 티비 앱",
+          "apple tv+",
+          "apple tv 플러스",
+          "apple tv 앱",
+          "apple original",
+          "apple tv youtube",
+          "드라마",
+          "파친코 애플 티비 시리즈",
+          "파친코 tv 시리즈",
+          "파친코 1화",
+          "파친코 시즌 1",
+          "에피소드 1"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "'파친코' - Pachinko — 첫 에피소드 전체 공개 | Apple TV+",
+          "description": "1920년대 일제 치하의 한국, 양진과 훈이 부부는 혹독한 현실로부터 하나밖에 없는 소중한 딸 선자를 보호하려 애쓴다. 1989년, 뉴욕에 사는 재일교포 솔로몬은 큰 계약을 성사시키려 한다. \n\n뉴욕타임스 베스트셀러에 선정된 동명의 소설을 원작으로 한 Apple Original 시리즈 '파친코' - Pachinko는 고국을 떠나 억척스럽게 생존과 번영을 추구하는 한인 이민 가족 4대의 삶과 꿈을 대하드라마 형식으로 그려냈다.\n\nYouTube에서 '파친코' - Pachinko의 첫 에피소드를 감상하세요. 2022년 4월 1일 오후 3시 59분까지 무료로 공개됩니다. '파친코' - Pachinko의 나머지 에피소드는 Apple TV+ 구독으로 즐길 수 있습니다.\n\n모자수 역에 소지 아라이, 솔로몬 역에 진 하, 양진 역에 정인지, 10대의 선자 역에 김민하, 한수 역에 이민호, 에츠코 역에 미나미 카호, 이삭 역에 노상현, 나오미 역에 안나 사웨이, 요셉 역에 한준우, 젊은 시절의 경희를 정은채가 연기했다. 더불어 톰 앤드루즈 역에 지미 심슨, 어린 선자 역에 유나, 아카데미 시상식에서 여우 조연상을 수상한 윤여정이 노년의 선자 역을 맡아 열연했다. \n\n'파친코' - Pachinko는 '더 테러', '더 킬링'을 제작한 수 휴가 각본을 쓰고 제작 과정을 지휘했다. 코고나다 감독은 하나의 파일럿 에피소드를 포함해 총 4편의 연출과 제작을 담당했고, 저스틴 전 감독이 나머지 에피소드 4편의 책임 프로듀서를 맡았다. 마이클 엘렌버그와 린제이 스프링어가 미디어 레즈의 책임 프로듀서로 이름을 올렸으며, 블루 마블 픽쳐스의 테레사 강-로우와 리처드 미들턴도 책임 프로듀서로 참여했다. 더불어 미디어 레즈의 대니 고린이 데이비드 킴 및 세바스티안 리와 함께 공동 책임 프로듀서를 담당했다.\n\nApple TV의 YouTube 채널을 구독하세요: https://apple.co/AppleTVYouTube\n\nApple TV를 팔로우하세요:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nApple TV+를 팔로우하세요:\nInstagram: https://instagram.com/appletvplus\nTwitter: https://twitter.com/AppleTVPlus\n\n다른 Apple TV+ 콘텐츠의 예고편 보기: https://apple.co/32qgOEJ\n\nApple TV+는 세계 최고의 제작진들이 선사하는 오리지널 콘텐츠를 제공하는 스트리밍 서비스입니다. Apple TV 앱에서 지금 감상하세요: https://apple.co/_AppleTVapp\nApple TV+는 Apple 기기가 없더라도 웹에서 원하는 브라우저를 이용해 시청할 수 있습니다. Apple TV+ 사이트에서 지금 감상하세요: https://tv.apple.com/kr\n\n#파친코 #1화 #전체공개 #AppleTV"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A7ofbQXSgFixet4W4foqdrfGVsQ",
+      "id": "OCxE6BV56Bk",
+      "snippet": {
+        "publishedAt": "2022-03-26T15:00:20Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "NCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV Teaser",
+        "description": "NCT DREAM's 2nd album \"Glitch Mode\" will be released on March 28th, 6PM (KST).\n\nNCT DREAM Official\nhttp://www.youtube.com/nctdream\nhttp://www.instagram.com/nct_dream\nhttp://www.tiktok.com/@official_nct\nhttp://twitter.com/NCTsmtown_DREAM\nhttp://www.facebook.com/NCTDREAM.smtown\n\n#NCTDREAM #버퍼링 #GlitchMode\n#NCTDREAM_GlitchMode\nNCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV Teaser ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OCxE6BV56Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OCxE6BV56Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OCxE6BV56Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OCxE6BV56Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OCxE6BV56Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "tags": [
+          "NCT DREAM",
+          "엔시티드림",
+          "드림",
+          "드림 컴백",
+          "Glitch Mode",
+          "글리치모드",
+          "드림 글리치모드",
+          "NCT DREAM Glitch Mode",
+          "마크",
+          "재민",
+          "제노",
+          "런쥔",
+          "해찬",
+          "지성",
+          "천러",
+          "MARK",
+          "JAEMIN",
+          "JENO",
+          "RENJUN",
+          "HAECHAN",
+          "JISUNG",
+          "CHENLE",
+          "버퍼링",
+          "buffering",
+          "mv",
+          "music video",
+          "teaser",
+          "뮤비 티저",
+          "뮤직비디오 티저"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV Teaser",
+          "description": "NCT DREAM's 2nd album \"Glitch Mode\" will be released on March 28th, 6PM (KST).\n\nNCT DREAM Official\nhttp://www.youtube.com/nctdream\nhttp://www.instagram.com/nct_dream\nhttp://www.tiktok.com/@official_nct\nhttp://twitter.com/NCTsmtown_DREAM\nhttp://www.facebook.com/NCTDREAM.smtown\n\n#NCTDREAM #버퍼링 #GlitchMode\n#NCTDREAM_GlitchMode\nNCT DREAM 엔시티 드림 '버퍼링 (Glitch Mode)' MV Teaser ℗ SM Entertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ycp4RVxQgCNi_Tc4blufzVg0yhA",
+      "id": "WvbuohI2JJc",
+      "snippet": {
+        "publishedAt": "2022-03-26T03:30:13Z",
+        "channelId": "UCWAFtWIMxR_Qpjh_sWbmwyA",
+        "title": "친구에게 무시받던 한국으로 귀화한 이유는? 러시아에서 온 일리야가 한국인이 되기까지 [외국인코리아]",
+        "description": "너무 재미있는 이야기 들려줘서 고마워요!  @일리야_대한러시안 \n------------------------------------------------------------------------------------------------------------\n[YouTube]\nhttps://bit.ly/CreativeDen\n[Instagram]\nhttps://instagram.com/odynssey\n\n[Music]\nhttps://artlist.io/Den-90277\n\n[For Business Enquiries]\nforeignerinkoreaden@gmail.com\n-----------------------------------------------------------------------------------\nCOPYRIGHT ⓒ \"외국인코리아 Creative Den\"  ALL RIGHTS RESERVED.\n이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.\n-----------------------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WvbuohI2JJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WvbuohI2JJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvbuohI2JJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "외국인코리아 Creative Den",
+        "tags": [
+          "외국인코리아",
+          "Creative Den",
+          "Den and Mandu",
+          "외국인",
+          "외국인 반응",
+          "Foreigner in Korea"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "친구에게 무시받던 한국으로 귀화한 이유는? 러시아에서 온 일리야가 한국인이 되기까지 [외국인코리아]",
+          "description": "너무 재미있는 이야기 들려줘서 고마워요!  @일리야_대한러시안 \n------------------------------------------------------------------------------------------------------------\n[YouTube]\nhttps://bit.ly/CreativeDen\n[Instagram]\nhttps://instagram.com/odynssey\n\n[Music]\nhttps://artlist.io/Den-90277\n\n[For Business Enquiries]\nforeignerinkoreaden@gmail.com\n-----------------------------------------------------------------------------------\nCOPYRIGHT ⓒ \"외국인코리아 Creative Den\"  ALL RIGHTS RESERVED.\n이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.\n-----------------------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "67k-bpa_3zogb2tUsqNGoSNT-rE",
+      "id": "FEzGn1LlSUc",
+      "snippet": {
+        "publishedAt": "2022-03-26T10:45:00Z",
+        "channelId": "UCx6jsZ02B4K3SECUrkgPyzg",
+        "title": "[놀면 뭐하니?] \"놀면 뭐하니?&런닝맨\" 예능 최초 콜라보의 첫걸음?! 창훈&보필 두 PD의 만남 MBC 220326 방송 (Hangout with Yoo)",
+        "description": "#놀면뭐하니 #본방못봤니 #런닝맨\n★★★More 'Hangout with Yoo' clips are available★★★\n\niMBC\nhttp://www.imbc.com/broad/tv/ent/hangoutwithyoo/vod/\n\nWAVVE\nhttps://www.wavve.com/player/vod?programid=M_1004711100000100000&page=1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FEzGn1LlSUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FEzGn1LlSUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FEzGn1LlSUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FEzGn1LlSUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FEzGn1LlSUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "놀면 뭐하니?",
+        "tags": [
+          "유재석",
+          "유플래시",
+          "유산슬",
+          "뽕포유",
+          "라섹",
+          "유르페우스",
+          "무도",
+          "놀면뭐하니",
+          "놀면 뭐하니",
+          "놀뭐",
+          "본방못봤니",
+          "놀면뭐하니 다시보기",
+          "놀면뭐하니 선공개",
+          "Hangout with Yoo",
+          "hangoutwithyoo",
+          "이미주",
+          "미주",
+          "희극인 미주",
+          "미주 예능",
+          "하하",
+          "하동훈",
+          "HAHA",
+          "정준하",
+          "Jeong Jun-ha",
+          "준하",
+          "신봉선",
+          "Shin Bong-sun",
+          "봉선",
+          "신미나",
+          "미나",
+          "박창훈",
+          "창훈pd",
+          "창훈피디",
+          "박명수 아바타",
+          "최보필",
+          "보필pd",
+          "보필피디",
+          "런닝맨"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[놀면 뭐하니?] \"놀면 뭐하니?&런닝맨\" 예능 최초 콜라보의 첫걸음?! 창훈&보필 두 PD의 만남 MBC 220326 방송 (Hangout with Yoo)",
+          "description": "#놀면뭐하니 #본방못봤니 #런닝맨\n★★★More 'Hangout with Yoo' clips are available★★★\n\niMBC\nhttp://www.imbc.com/broad/tv/ent/hangoutwithyoo/vod/\n\nWAVVE\nhttps://www.wavve.com/player/vod?programid=M_1004711100000100000&page=1"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AFM273oBwt6sMy-drDFLmqt7cog",
+      "id": "fAHLnFouRT0",
+      "snippet": {
+        "publishedAt": "2022-03-24T09:15:00Z",
+        "channelId": "UCHlSeJxRIXZWMARC2oMwmcQ",
+        "title": "조심스럽게 농협을 찾은 남성 천만 원을 현금으로 인출하는데...시골 농협이 발칵 뒤집힌 사연은? KBS 220324 방송",
+        "description": "조심스럽게 농협을 찾은 남성\n\n집수리와 치과 치료비에 필요한 돈이라며\n천만 원을 현금으로 인출하는데...\n\n잠시 뒤 포착된 수상한 장면!\n작은 목소리로 어딘가 통화를 하는 남성\n\n통화 내용을 들은 직원은 곧바로 경찰에 신고하는데...\n\n#보이스피싱 #현금인출 #수상한전화 #금융사기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fAHLnFouRT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fAHLnFouRT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fAHLnFouRT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 교양",
+        "tags": [
+          "KBS",
+          "KBS1",
+          "KBS2",
+          "KBS교양",
+          "KBS다큐",
+          "한국방송",
+          "보이스피싱",
+          "농협",
+          "금융사기",
+          "현금인출",
+          "CCTV",
+          "수상한 전화"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "조심스럽게 농협을 찾은 남성 천만 원을 현금으로 인출하는데...시골 농협이 발칵 뒤집힌 사연은? KBS 220324 방송",
+          "description": "조심스럽게 농협을 찾은 남성\n\n집수리와 치과 치료비에 필요한 돈이라며\n천만 원을 현금으로 인출하는데...\n\n잠시 뒤 포착된 수상한 장면!\n작은 목소리로 어딘가 통화를 하는 남성\n\n통화 내용을 들은 직원은 곧바로 경찰에 신고하는데...\n\n#보이스피싱 #현금인출 #수상한전화 #금융사기"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AzVXVWaGdDwqy5HT3FZ4jiW1yuc",
+      "id": "_G-Devd2x4A",
+      "snippet": {
+        "publishedAt": "2022-03-26T03:08:50Z",
+        "channelId": "UCIG4gr_wIy5CIlcFciUbIQw",
+        "title": "여자에 미친XX 참교육 l 감성주점 최종회",
+        "description": "#없는영화 #결말포함\n\n배우지원은 개인프로필과 연기영상 첨부해서 아래 메일로 보내주세요!\n많은 지원 기다리겠습니다 :)\n\n배우지원, 광고문의 - jinyongjin.yt@gmail.com\n\n장소협조 꼴목 경성대점 사장님 감사합니다 :)\n꼴목 경성대점 - 부산 남구 용소로7번길 60 https://www.instagram.com/ggolmok_kyungsung_univ\n\n- 배우\n임환 - 임경훈 https://www.instagram.com/im_gaang\n이희은 - 양의진 https://www.instagram.com/fullmoon_0614\n조원준(부매니저) - 현재이 https://www.instagram.com/hjae.2\n이영철(매니저) - 서현우 https://www.instagram.com/hyunwooisgood\n서정도(점장) - 강현준 https://www.instagram.com/pencio88\n이동환 - 이승민 https://www.instagram.com/mmnool_e\n박수진 - 김민지 https://www.instagram.com/mimjimim\n한서연 - 정구현 https://www.instagram.com/leonuna_a\n백한솔 - 가오가이 https://www.instagram.com/kaogaiiwtf\n\n시나리오\n진용진 https://www.instagram.com/jinyongjin92\n\n연출 - 진용진, 강형규\n\n조연출 - 이가영\n연출팀 - 이민주, 김경현, 구아영\n\n제작 - 강민기\n제작팀 - 백정빈, 최정진, 마호영 , 박현준\n\n촬영 - 김상문\n촬영팀 - 정진혁, 정인혁, 김주영\n\n동시팀 - 박지현\n붐오퍼 - 윤가연 , 김연수\n\n미술팀 - 김소영, 이재경, 김혜린\n\n분장팀 - 김민지, 김예림, 정다영, 전유미\n\n편집 - 이재혁\n\n데이터 - 박태욱\n\n제품협찬 - 하이트진로, 철인7호치킨",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_G-Devd2x4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_G-Devd2x4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_G-Devd2x4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_G-Devd2x4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_G-Devd2x4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "진용진",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "여자에 미친XX 참교육 l 감성주점 최종회",
+          "description": "#없는영화 #결말포함\n\n배우지원은 개인프로필과 연기영상 첨부해서 아래 메일로 보내주세요!\n많은 지원 기다리겠습니다 :)\n\n배우지원, 광고문의 - jinyongjin.yt@gmail.com\n\n장소협조 꼴목 경성대점 사장님 감사합니다 :)\n꼴목 경성대점 - 부산 남구 용소로7번길 60 https://www.instagram.com/ggolmok_kyungsung_univ\n\n- 배우\n임환 - 임경훈 https://www.instagram.com/im_gaang\n이희은 - 양의진 https://www.instagram.com/fullmoon_0614\n조원준(부매니저) - 현재이 https://www.instagram.com/hjae.2\n이영철(매니저) - 서현우 https://www.instagram.com/hyunwooisgood\n서정도(점장) - 강현준 https://www.instagram.com/pencio88\n이동환 - 이승민 https://www.instagram.com/mmnool_e\n박수진 - 김민지 https://www.instagram.com/mimjimim\n한서연 - 정구현 https://www.instagram.com/leonuna_a\n백한솔 - 가오가이 https://www.instagram.com/kaogaiiwtf\n\n시나리오\n진용진 https://www.instagram.com/jinyongjin92\n\n연출 - 진용진, 강형규\n\n조연출 - 이가영\n연출팀 - 이민주, 김경현, 구아영\n\n제작 - 강민기\n제작팀 - 백정빈, 최정진, 마호영 , 박현준\n\n촬영 - 김상문\n촬영팀 - 정진혁, 정인혁, 김주영\n\n동시팀 - 박지현\n붐오퍼 - 윤가연 , 김연수\n\n미술팀 - 김소영, 이재경, 김혜린\n\n분장팀 - 김민지, 김예림, 정다영, 전유미\n\n편집 - 이재혁\n\n데이터 - 박태욱\n\n제품협찬 - 하이트진로, 철인7호치킨"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DbOQu7dBr4xqPMRKLXxI939qgqY",
+      "id": "qH-Xj5Dw1Fk",
+      "snippet": {
+        "publishedAt": "2022-03-24T09:30:13Z",
+        "channelId": "UCHlSeJxRIXZWMARC2oMwmcQ",
+        "title": "시내 버스를 멈춰 세운 경찰, 경찰이 출동한 사연은? KBS 220324 방송",
+        "description": "달리던 시내버스를 멈춰세우고\n버스안에서 한 사람을 데리고 나오는 경찰!\n\n과연 무슨 일이?\n\n#블랙박스 #경찰 #시내버스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qH-Xj5Dw1Fk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qH-Xj5Dw1Fk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qH-Xj5Dw1Fk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 교양",
+        "tags": [
+          "KBS",
+          "KBS1",
+          "KBS2",
+          "KBS교양",
+          "KBS다큐",
+          "한국방송",
+          "시내버스",
+          "실종 아동",
+          "신고 전화",
+          "블랙박스",
+          "경찰"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "시내 버스를 멈춰 세운 경찰, 경찰이 출동한 사연은? KBS 220324 방송",
+          "description": "달리던 시내버스를 멈춰세우고\n버스안에서 한 사람을 데리고 나오는 경찰!\n\n과연 무슨 일이?\n\n#블랙박스 #경찰 #시내버스"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PYNwp3g7SXvZBe-HxC0B3tyK2zY",
+      "id": "_LQzhIoEos4",
+      "snippet": {
+        "publishedAt": "2022-03-25T09:00:18Z",
+        "channelId": "UCYtjW8dGkaeHwrMiB01Xa_Q",
+        "title": "[ENG] 준코에서 이팍이랑 원소주 마신 썰 풉니다... 박재범 편 | 터키즈온더블럭 EP.40",
+        "description": "그놈의 원소주....\n얼마나 대단한지 마셔봤습니다🌀\n\n초저예산 길바닥 토크쇼《터키즈온더블럭》\n매주 금요일 오후 6시 스튜디오 와플 공개!\n👉https://youtube.com/c/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%99%80%ED%94%8CSTUDIOWAFFLE\n\n터키즈 온 더 블럭 공식 인스타그램\n👉https://instagram.com/turkidsontheblock\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#터키즈온더블럭 #터키즈 #박재범 #이용진 #제이팍 #원소주 #가나다라 #JayPark\n\n《상쾌환》 : 유통전문판매원 : ㈜삼양사, 제조원 : ㈜네추럴웨이\n《상쾌환 스틱형》 / 《상쾌환 스틱형 Red》 : 유통전문판매원 : ㈜삼양사, 제조원 : 코스맥스엔비티㈜, ㈜네추럴웨이 포천제2공장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_LQzhIoEos4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_LQzhIoEos4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_LQzhIoEos4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스튜디오 와플 - STUDIO WAFFLE",
+        "tags": [
+          "터키즈온더블럭",
+          "이용진",
+          "터키즈",
+          "이용진 터키아이스크림",
+          "터키아이스크림 이용진",
+          "터키아이스크림",
+          "이용진 토크",
+          "괴데 레전드",
+          "MSCR_OR_NS",
+          "이용진 터키즈",
+          "이용진 터키터키",
+          "터퀴즈",
+          "터퀴즈 온더블럭",
+          "터퀴즈 이용진",
+          "코빅 레전드",
+          "제이팍",
+          "박재범",
+          "원소주",
+          "AOMG",
+          "MOREVISION",
+          "모어비전",
+          "몸매",
+          "가나다라",
+          "송창식",
+          "아이유"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[ENG] 준코에서 이팍이랑 원소주 마신 썰 풉니다... 박재범 편 | 터키즈온더블럭 EP.40",
+          "description": "그놈의 원소주....\n얼마나 대단한지 마셔봤습니다🌀\n\n초저예산 길바닥 토크쇼《터키즈온더블럭》\n매주 금요일 오후 6시 스튜디오 와플 공개!\n👉https://youtube.com/c/%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%EC%99%80%ED%94%8CSTUDIOWAFFLE\n\n터키즈 온 더 블럭 공식 인스타그램\n👉https://instagram.com/turkidsontheblock\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#터키즈온더블럭 #터키즈 #박재범 #이용진 #제이팍 #원소주 #가나다라 #JayPark\n\n《상쾌환》 : 유통전문판매원 : ㈜삼양사, 제조원 : ㈜네추럴웨이\n《상쾌환 스틱형》 / 《상쾌환 스틱형 Red》 : 유통전문판매원 : ㈜삼양사, 제조원 : 코스맥스엔비티㈜, ㈜네추럴웨이 포천제2공장"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MXvFY0MrFedV_zrBTjMp6Qq1vOs",
+      "id": "gIomaIwvlA0",
+      "snippet": {
+        "publishedAt": "2022-03-26T12:00:07Z",
+        "channelId": "UChgOgRNxrtCcVARDQT_c-Zg",
+        "title": "군입대 특",
+        "description": "#입대 #군대 #뷰맵 #미노이 #십센치\n이 영상은 뷰맵으로부터 제작비를 지원받아 제작되었습니다.\n문의메일 - short_paper@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIomaIwvlA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIomaIwvlA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIomaIwvlA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gIomaIwvlA0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "짧은대본 ShortPaper",
+        "tags": [
+          "드라마",
+          "web drama",
+          "남사친",
+          "여사친",
+          "로멘스",
+          "연애",
+          "사랑",
+          "love",
+          "군대",
+          "입대",
+          "입영",
+          "안경",
+          "뷰맵",
+          "선글라스",
+          "육군",
+          "육군훈련소"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "군입대 특",
+          "description": "#입대 #군대 #뷰맵 #미노이 #십센치\n이 영상은 뷰맵으로부터 제작비를 지원받아 제작되었습니다.\n문의메일 - short_paper@naver.com"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lgC1plcmuI0gYg3gWUGxbi3e7VI",
+      "id": "iTeQvdCZV8w",
+      "snippet": {
+        "publishedAt": "2022-03-26T06:00:08Z",
+        "channelId": "UCszFjh7CEfwDb7UUGb4RzCQ",
+        "title": "[짐승친구들] 금발 태닝 푸들",
+        "description": "이 만화는 무료로 웃겨줍니다!\n\n[배급 : 빅픽처팀] [기획 : 비크리스피] [각본 : 짤태식]\n\n#짤툰#애니메이션#짐승친구들#금태양#푸들",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTeQvdCZV8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTeQvdCZV8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTeQvdCZV8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iTeQvdCZV8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iTeQvdCZV8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "짤툰",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[짐승친구들] 금발 태닝 푸들",
+          "description": "이 만화는 무료로 웃겨줍니다!\n\n[배급 : 빅픽처팀] [기획 : 비크리스피] [각본 : 짤태식]\n\n#짤툰#애니메이션#짐승친구들#금태양#푸들"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SOesKl102kBwPYH4qT6NKEa62Po",
+      "id": "Vro1_JiBcpM",
+      "snippet": {
+        "publishedAt": "2022-03-25T09:09:33Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[K-Choreo 8K HDR] 레드벨벳 직캠 'Feel My Rhythm' (Red Velvet Choreography) l @MusicBank 220325",
+        "description": "#RedVelvet #Choreography #8k #hdr\n\nMore from #KBSKPOP\n\nTwitter:       https://twitter.com/StudioK_twit\nInstagram: https://www.instagram.com/studiok__official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vro1_JiBcpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vro1_JiBcpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vro1_JiBcpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "tags": [
+          "KBS",
+          "KPOP",
+          "뮤직",
+          "KBSKPOP",
+          "K-POP",
+          "케이팝",
+          "kpop",
+          "KBSKpop",
+          "음악",
+          "kbs kpop",
+          "뮤직뱅크",
+          "뮤뱅",
+          "레드벨벳",
+          "레벨",
+          "레벨 무대",
+          "Feel My Rhythm",
+          "Red Velvet",
+          "필마이리듬",
+          "red velvet Feel My Rhythm",
+          "아이린",
+          "예리",
+          "슬기",
+          "조이",
+          "웬디",
+          "IRENE",
+          "SEULGI",
+          "WENDY",
+          "JOY",
+          "YERI",
+          "뮤뱅 레벨",
+          "뮤뱅 레벨 컴백",
+          "red velvet comback",
+          "musicbank",
+          "music bank",
+          "sm",
+          "여돌",
+          "레드벨벳 춤",
+          "레벨 춤",
+          "fancam",
+          "redvelvet fancam",
+          "feel my rhythm 레벨",
+          "클래식 레벨",
+          "레드벨벳 클래식",
+          "뮤뱅 레드벨벳",
+          "musicbank redvelvet"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[K-Choreo 8K HDR] 레드벨벳 직캠 'Feel My Rhythm' (Red Velvet Choreography) l @MusicBank 220325",
+          "description": "#RedVelvet #Choreography #8k #hdr\n\nMore from #KBSKPOP\n\nTwitter:       https://twitter.com/StudioK_twit\nInstagram: https://www.instagram.com/studiok__official/"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZWL1bdKq3HuZhUQxUyFeZvw5J6I",
+      "id": "CTnShqfp1Xo",
+      "snippet": {
+        "publishedAt": "2022-03-24T16:00:10Z",
+        "channelId": "UCXTRFt1vLvZpahQtiKJjLaQ",
+        "title": "#AsianQualifiers - Group A | Korea Republic 2 -  0 Islamic Republic of Iran",
+        "description": "Korea Republic moved to the top of Group A in the AFC Asian Qualifiers – Road to Qatar™ after a 2-0 victory over the Islamic Republic of Iran on Thursday saw them climb above their opponents with a game to play.\n\nFacebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CTnShqfp1Xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CTnShqfp1Xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTnShqfp1Xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AFC Asian Cup",
+        "tags": [
+          "AFC Asian Cup",
+          "Asian Cup 2019",
+          "Asian Football Confederation",
+          "Asian Cup 2011",
+          "Asian Football",
+          "AFC",
+          "Asian",
+          "Cup",
+          "2019",
+          "Asian Cup 2023",
+          "Asian Cup",
+          "Asian Qualifiers",
+          "China 2023",
+          "World Cup Qualifiers",
+          "FIFA",
+          "AFC Asian Cup 2023"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "#AsianQualifiers - Group A | Korea Republic 2 -  0 Islamic Republic of Iran",
+          "description": "Korea Republic moved to the top of Group A in the AFC Asian Qualifiers – Road to Qatar™ after a 2-0 victory over the Islamic Republic of Iran on Thursday saw them climb above their opponents with a game to play.\n\nFacebook: https://www.facebook.com/AFCAsianCup\nTwitter: https://twitter.com/afcasiancup\nInstagram:  http://instagram.com/afcasiancup"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v7SD5fAPIEBwQostGmCMk7qs_YA",
+      "id": "Bl0s-1c5L0M",
+      "snippet": {
+        "publishedAt": "2022-03-23T09:00:07Z",
+        "channelId": "UCk9GmdlDTBfgGRb7vXeRMoQ",
+        "title": "Red Velvet 레드벨벳 'Feel My Rhythm' Performance Video",
+        "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out!\nListen and download on your favorite platform: https://smarturl.it/RV_FeelMyRhythm\n🍓✨ 'Feel My Rhythm' MV: https://youtu.be/R9At2ICm4LQ\n\nRed Velvet Official\nhttp://www.youtube.com/redvelvet\nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttp://twitter.com/RVsmtown\n\n#RedVelvet #The_ReVe_Festival_2022 #Feel_My_Rhythm \n#레드벨벳 #필마이리듬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bl0s-1c5L0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Velvet",
+        "tags": [
+          "레드벨벳",
+          "필마이리듬",
+          "퍼포먼스",
+          "무대",
+          "안무",
+          "아이린",
+          "슬기",
+          "웬디",
+          "조이",
+          "예리",
+          "리브 페스티벌",
+          "red velvet",
+          "feel my rhythm",
+          "performance",
+          "video",
+          "dance",
+          "choreography",
+          "live",
+          "stage",
+          "irene",
+          "seulgi",
+          "wendy",
+          "joy",
+          "yeri",
+          "the reve festival"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Red Velvet 레드벨벳 'Feel My Rhythm' Performance Video",
+          "description": "Red Velvet's mini album \"'The ReVe Festival 2022 - Feel My Rhythm'\" is out!\nListen and download on your favorite platform: https://smarturl.it/RV_FeelMyRhythm\n🍓✨ 'Feel My Rhythm' MV: https://youtu.be/R9At2ICm4LQ\n\nRed Velvet Official\nhttp://www.youtube.com/redvelvet\nhttp://www.facebook.com/RedVelvet\nhttp://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttp://twitter.com/RVsmtown\n\n#RedVelvet #The_ReVe_Festival_2022 #Feel_My_Rhythm \n#레드벨벳 #필마이리듬"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YXhmze0-3EJ3AAQjr20Sq4zZhbs",
+      "id": "iuVWkWiAGlY",
+      "snippet": {
+        "publishedAt": "2022-03-26T08:30:10Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "[예능연구소 4K] 레드벨벳 직캠 ‘Feel My Rhythm’ (Red Velvet FanCam) @Show!MusicCore 220326",
+        "description": "Watch more video clips of the Hottest K-POP Stars\n더 많은 MBC 예능 ↓↓↓\n\n예능연구소 페이스북\n☞ https://www.facebook.com/MBCentertain\n\n예능연구소 트위터\n☞ https://twitter.com/MBC_entertain\n\n예능연구소 인스타그램\n☞ https://www.instagram.com/mbcentertain/\n\n예능연구소 포스트\n☞ https://bit.ly/2CJILPj\n\n\nMBC 예능 보고 또 보고 예능연구소\nMBC220326방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuVWkWiAGlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuVWkWiAGlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuVWkWiAGlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iuVWkWiAGlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iuVWkWiAGlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "tags": [
+          "쇼! 음악중심",
+          "쇼음중",
+          "예능연구소 직캠",
+          "예능연구소 레드벨벳",
+          "레드벨벳",
+          "Red Velvet",
+          "Feel My Rhythm"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[예능연구소 4K] 레드벨벳 직캠 ‘Feel My Rhythm’ (Red Velvet FanCam) @Show!MusicCore 220326",
+          "description": "Watch more video clips of the Hottest K-POP Stars\n더 많은 MBC 예능 ↓↓↓\n\n예능연구소 페이스북\n☞ https://www.facebook.com/MBCentertain\n\n예능연구소 트위터\n☞ https://twitter.com/MBC_entertain\n\n예능연구소 인스타그램\n☞ https://www.instagram.com/mbcentertain/\n\n예능연구소 포스트\n☞ https://bit.ly/2CJILPj\n\n\nMBC 예능 보고 또 보고 예능연구소\nMBC220326방송"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nGWtPC8n7pVAHAokNQ0Wh1P08Wk",
+      "id": "Y-OC3cPieKs",
+      "snippet": {
+        "publishedAt": "2022-03-24T12:18:08Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[ENG] [퀸덤2] EXCLUSIVE PREVIEWㅣ3/31(목) 밤 9시 20분 첫 방송 〈QUEENDOM2〉",
+        "description": "[퀸덤2] EXCLUSIVE PREVIEWㅣ3/31(목) 밤 9시 20분 첫 방송 〈QUEENDOM2〉\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 3월 31일 (목) 밤 9시 20분 첫 방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-OC3cPieKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-OC3cPieKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-OC3cPieKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y-OC3cPieKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y-OC3cPieKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "tags": ["퀸덤2", "QUEENDOM2", "exclusive preview", "선공개", "엠넷", "mnet"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[ENG] [퀸덤2] EXCLUSIVE PREVIEWㅣ3/31(목) 밤 9시 20분 첫 방송 〈QUEENDOM2〉",
+          "description": "[퀸덤2] EXCLUSIVE PREVIEWㅣ3/31(목) 밤 9시 20분 첫 방송 〈QUEENDOM2〉\n\nK-POP 대표 걸그룹들의 글로벌 동시 컴백 전쟁!\n〈퀸덤2〉 3월 31일 (목) 밤 9시 20분 첫 방송"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bAi6H0DTMRGrRZpj7HoDIZo4edg",
+      "id": "h361nrby51c",
+      "snippet": {
+        "publishedAt": "2022-03-25T01:30:13Z",
+        "channelId": "UChI3EXzhAkRszawlMageKvQ",
+        "title": "이천수 : 손흥민 저 속도에서 슈팅이 가능하다고..???",
+        "description": "태극전사들 그리고 응원해주신 모든 분들 모두 수고 많으셨습니다!\n\nps : 영상 내용에 오류가 있어서 정정합니다\n상암 하이브리드 잔디 비율은 천연잔디 95 : 인조잔디 5라고 합니다 \n혼돈 없으시길! [ㅈㅅ..]\n\n구독과 좋아요는 큰 힘이 됩니다!\n문의 : leechunsoo2021@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h361nrby51c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h361nrby51c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h361nrby51c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h361nrby51c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h361nrby51c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리춘수 [이천수]",
+        "tags": ["이란전", "리춘슈", "이찬스", "일아저", "이나러전", "이라ㅓㅈㄴ"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "이천수 : 손흥민 저 속도에서 슈팅이 가능하다고..???",
+          "description": "태극전사들 그리고 응원해주신 모든 분들 모두 수고 많으셨습니다!\n\nps : 영상 내용에 오류가 있어서 정정합니다\n상암 하이브리드 잔디 비율은 천연잔디 95 : 인조잔디 5라고 합니다 \n혼돈 없으시길! [ㅈㅅ..]\n\n구독과 좋아요는 큰 힘이 됩니다!\n문의 : leechunsoo2021@gmail.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_cERLaJ7J6NW8N3kl6V3RBcGxFY",
+      "id": "THVF4nwPS5A",
+      "snippet": {
+        "publishedAt": "2022-03-26T09:00:15Z",
+        "channelId": "UCuh6Br1vzgo1LivYgKvno5Q",
+        "title": "밈이 된 영화 대사들을 ㄱ~ㅎ순으로 알아보자🎞🎬",
+        "description": "백 오십 팔번째로 알아볼 것은 '밈이 된 영화 대사' 입니다.\n저번 편에선 ㄱ~ㅂ까지 알아봤으니 오늘은 ㅅ~ㅎ까지 알아볼까요?\n\n#영화\n\nBGM 정보 ::\n\nTrack: RetroVision - Campfire [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/geOGWGe0aB8\nFree Download / Stream: http://ncs.io/CampfireYO\n\n00:00 인트로\n00:36 ㅅ - Shut up, Malfoy\n02:42 ㅇ - I AM GROOT\n04:12 ㅈ - 진행시켜\n06:09 ㅊ - 첫 판부터 장난질이냐?\n07:17 ㅋ - 키미노 나마에와\n08:15 ㅌ - 탈룰라\n09:58 ㅍ - 포스가 함께하길\n11:00 ㅎ - Here's Johnny!!\n12:08 아웃트로",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THVF4nwPS5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THVF4nwPS5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THVF4nwPS5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/THVF4nwPS5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/THVF4nwPS5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이템의 인벤토리",
+        "tags": [
+          "아이템",
+          "아이템의인벤토리",
+          "드립",
+          "유래",
+          "어디서",
+          "영화",
+          "밈",
+          "해리포터",
+          "마블",
+          "이경영",
+          "타짜",
+          "너의이름은",
+          "탈룰라",
+          "스타워즈",
+          "샤이닝"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "밈이 된 영화 대사들을 ㄱ~ㅎ순으로 알아보자🎞🎬",
+          "description": "백 오십 팔번째로 알아볼 것은 '밈이 된 영화 대사' 입니다.\n저번 편에선 ㄱ~ㅂ까지 알아봤으니 오늘은 ㅅ~ㅎ까지 알아볼까요?\n\n#영화\n\nBGM 정보 ::\n\nTrack: RetroVision - Campfire [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch: https://youtu.be/geOGWGe0aB8\nFree Download / Stream: http://ncs.io/CampfireYO\n\n00:00 인트로\n00:36 ㅅ - Shut up, Malfoy\n02:42 ㅇ - I AM GROOT\n04:12 ㅈ - 진행시켜\n06:09 ㅊ - 첫 판부터 장난질이냐?\n07:17 ㅋ - 키미노 나마에와\n08:15 ㅌ - 탈룰라\n09:58 ㅍ - 포스가 함께하길\n11:00 ㅎ - Here's Johnny!!\n12:08 아웃트로"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CIjvMh0Q1ExBVmJCe7c7wViymWY",
+      "id": "JXqUP331Tvw",
+      "snippet": {
+        "publishedAt": "2022-03-24T23:00:09Z",
+        "channelId": "UC78PMQprrZTbU0IlMDsYZPw",
+        "title": "[미방분] 유재석 통화 연결! 이광수 전화 받자 반응은…? (ft. 유자기 어사장2 나올 뻔한 사연) #어쩌다사장2 EP.6",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#차태현 #조인성\n어쩌다 사장2 Unexpected Business2 EP.6\n\n*휴방 안내\n2022 카타르 월드컵 아시아 최종예선 [대한민국 vs 이란] 경기 생중계로 \n{어쩌다 사장2}는 3/24 (목) 휴방, 3/31 (목) 6화 본방송으로 찾아갑니다!\n\n'어쩌다' 확장 이전! 도시남자 차태현x조인성의 두 번째 시골슈퍼 영업일지\n매주 (목) 저녁 8시 40분 tvN 방송\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JXqUP331Tvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JXqUP331Tvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JXqUP331Tvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN",
+        "tags": [
+          "chataehyun",
+          "choinsung",
+          "tvN",
+          "unexpectedbusiness",
+          "unexpectedbusiness2",
+          "김우빈",
+          "김재화",
+          "김혜수",
+          "남주혁",
+          "동현배",
+          "박병은",
+          "박보영",
+          "박인비",
+          "설현",
+          "신승환",
+          "어쩌다사장",
+          "어쩌다사장2",
+          "유호진",
+          "윤경호",
+          "윤시윤",
+          "윤인회",
+          "이광수",
+          "이은형",
+          "임주환",
+          "조보아",
+          "조인성",
+          "차태현",
+          "티빙에서스트리밍",
+          "한효주",
+          "홍현희"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[미방분] 유재석 통화 연결! 이광수 전화 받자 반응은…? (ft. 유자기 어사장2 나올 뻔한 사연) #어쩌다사장2 EP.6",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n#차태현 #조인성\n어쩌다 사장2 Unexpected Business2 EP.6\n\n*휴방 안내\n2022 카타르 월드컵 아시아 최종예선 [대한민국 vs 이란] 경기 생중계로 \n{어쩌다 사장2}는 3/24 (목) 휴방, 3/31 (목) 6화 본방송으로 찾아갑니다!\n\n'어쩌다' 확장 이전! 도시남자 차태현x조인성의 두 번째 시골슈퍼 영업일지\n매주 (목) 저녁 8시 40분 tvN 방송\n\n#티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ye2bt_JCgInirdLWnSw888evx7s",
+      "id": "MxunQ_SgXOw",
+      "snippet": {
+        "publishedAt": "2022-03-25T08:00:13Z",
+        "channelId": "UCB9e3pof1o83aa0kkaoeJGA",
+        "title": "[4K] NMIXX (엔믹스) -“O.O” Band LIVE Concert │‘갓’ 신인 짱믹스의 밴드라이브🖤 [it’s KPOP LIVE 잇츠라이브]",
+        "description": "JYP 신인 걸그룹 엔믹스(NMIXX)가 잇츠라이브에 떴다!!😍\n여러 장르가 섞인 믹스팝 스타일의 곡,\n엔믹스의 'O.O’ 무대를 지금 바로 만나보세요🖤\n\nNMIXX - “O.O”\n \n#itsLIVE #NMIXX #OO #엔믹스 #설윤 #규진 #지우 #해원 #릴리 #배이 #지니 #JYP #KPOP #잇츠라이브",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MxunQ_SgXOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MxunQ_SgXOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MxunQ_SgXOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MxunQ_SgXOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MxunQ_SgXOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "it's Live",
+        "tags": [
+          "NMIXX",
+          "엔믹스",
+          "O.O",
+          "NMIXX O.O",
+          "엔믹스 O.O",
+          "엔믹스 오오",
+          "설윤",
+          "규진",
+          "지니",
+          "지우",
+          "해원",
+          "릴리",
+          "배이",
+          "SULLYOON",
+          "JINNI",
+          "JIWOO",
+          "KYUJIN",
+          "HAEWON",
+          "LILY",
+          "LILY M",
+          "BAE",
+          "엔믹스 설윤",
+          "엔믹스 규진",
+          "엔믹스 지니",
+          "엔믹스 지우",
+          "엔믹스 해원",
+          "엔믹스 릴리",
+          "엔믹스 배이",
+          "JYP",
+          "JYPn",
+          "엔믹스 JYP",
+          "엔믹스 티저",
+          "엔믹스 라이브",
+          "걸그룹",
+          "신인",
+          "신인 걸그룹",
+          "KPOP Idol",
+          "KPOP Group",
+          "KPOP",
+          "MDR",
+          "잇츠라이브",
+          "itsLive",
+          "Band",
+          "Band LIVE",
+          "밴드",
+          "밴드라이브",
+          "콘서트",
+          "온라인콘서트",
+          "온콘",
+          "공연",
+          "축제"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[4K] NMIXX (엔믹스) -“O.O” Band LIVE Concert │‘갓’ 신인 짱믹스의 밴드라이브🖤 [it’s KPOP LIVE 잇츠라이브]",
+          "description": "JYP 신인 걸그룹 엔믹스(NMIXX)가 잇츠라이브에 떴다!!😍\n여러 장르가 섞인 믹스팝 스타일의 곡,\n엔믹스의 'O.O’ 무대를 지금 바로 만나보세요🖤\n\nNMIXX - “O.O”\n \n#itsLIVE #NMIXX #OO #엔믹스 #설윤 #규진 #지우 #해원 #릴리 #배이 #지니 #JYP #KPOP #잇츠라이브"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "khnFQdKhqAJymsb3lcoa6NTbScg",
+      "id": "8m9LUkL-iww",
+      "snippet": {
+        "publishedAt": "2022-03-26T13:15:37Z",
+        "channelId": "UCEwOn7PtulhGiick5T_9CyA",
+        "title": "포켓몬빵 친구얼굴 띠부씰로 바꿔치기",
+        "description": "안녕하세요! 오늘은 친구를 포켓몬빵의 띠부씰로 만들어보았습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8m9LUkL-iww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8m9LUkL-iww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8m9LUkL-iww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8m9LUkL-iww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8m9LUkL-iww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "발명! 쓰레기걸 Trash girl",
+        "tags": [
+          "포켓몬빵",
+          "띠부씰",
+          "띠부띠부씰",
+          "친구몰카",
+          "포켓몬",
+          "꼬부기빵",
+          "파이리빵",
+          "피카츄빵",
+          "딱충이",
+          "로켓단빵"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "포켓몬빵 친구얼굴 띠부씰로 바꿔치기",
+          "description": "안녕하세요! 오늘은 친구를 포켓몬빵의 띠부씰로 만들어보았습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wBrQn4suOgnpmIcHL5sLJUm_AHU",
+      "id": "V3RNqJOCUUY",
+      "snippet": {
+        "publishedAt": "2022-03-25T00:55:00Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[월드컵최종예선] 호주 VS 일본 9차전 H/L l AFC 아시아지역 월드컵 최종예선",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[월드컵최종예선] 호주 VS 일본 9차전 H/L l AFC 아시아지역 월드컵 최종예선\n\n#2022카타르월드컵최종예선 #스포츠엔tvN #티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V3RNqJOCUUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V3RNqJOCUUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3RNqJOCUUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "AFC",
+          "tvn",
+          "tvn sports",
+          "김민재",
+          "김영권",
+          "대한민국",
+          "레바논",
+          "베트남",
+          "사우디",
+          "손흥민",
+          "스포츠",
+          "시리아",
+          "아시아축구",
+          "월드컵",
+          "월드컵 3차전",
+          "월드컵 하이라이트",
+          "이라크",
+          "이란",
+          "이재성",
+          "일본",
+          "정우영",
+          "조규성",
+          "중국",
+          "축구",
+          "카타르월드컵",
+          "티빙에서스트리밍",
+          "해외축구",
+          "호주",
+          "황의조",
+          "황희찬"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[월드컵최종예선] 호주 VS 일본 9차전 H/L l AFC 아시아지역 월드컵 최종예선",
+          "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[월드컵최종예선] 호주 VS 일본 9차전 H/L l AFC 아시아지역 월드컵 최종예선\n\n#2022카타르월드컵최종예선 #스포츠엔tvN #티빙에서스트리밍"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBgQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 24
+  }
+}
