@@ -1,10 +1,27 @@
 import React, { useEffect, useState } from 'react';
 import Header from './components/header/header';
 import VideoList from './components/video_list/video_list';
+import styles from './app.module.css';
 
 function App(props) {
   const [videos, setViedos] = useState([]);
+  const apiKey = process.env.REACT_APP_KEY;
 
+  const search = (query) => {
+    const requestOptions = {
+      method: 'GET',
+      redirect: 'follow',
+    };
+
+    fetch(
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=24&q=${query}&key=${apiKey}`,
+      requestOptions
+    )
+      .then((response) => response.json())
+      .then((result) => result.items.map((item) => ({ ...item, id: item.id.videoId })))
+      .then((result) => setViedos(result))
+      .catch((error) => console.log('error', error));
+  };
   /*
   useEffect(콜백,옵션) : 컴포넌트가 마운트될때마다, 업데이트될때마다 설정해둔 콜백함수가 실행됨
     -> 원하는 변수의 목록을 옵션에 적용하면 해당 목록이 업데이트될때만 실행됨!
@@ -30,8 +47,10 @@ function App(props) {
 
   return (
     <>
-      <Header />
-      <VideoList videos={videos} />
+      <Header onSearch={search} />
+      <section className={styles.mainVideoList}>
+        <VideoList videos={videos} />
+      </section>
     </>
   );
 }

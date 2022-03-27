@@ -1,0 +1,10 @@
+.mainVideoList {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (min-width: 786px) {
+  .mainVideoList {
+    max-width: 80vw;
+  }
+}

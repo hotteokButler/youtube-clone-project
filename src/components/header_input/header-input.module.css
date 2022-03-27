@@ -12,7 +12,7 @@
 .inputButton {
   width: calc(100% - 75% - 8px);
   margin: 0 0 0 8px;
-  background-color: #6b6b6b;
+  background-color: #232323;
   line-height: 2.5rem;
   color: #efefef;
   border-radius: 3px;
@@ -27,16 +27,12 @@
   }
   .input {
     width: 85%;
-    padding: 0.5rem 1rem;
-    border: 1px solid #efefef;
-    border-radius: 3px;
+    padding: 0.8rem 1rem;
+
+    font-size: 1.3rem;
   }
   .inputButton {
     width: calc(100% - 85% - 8px);
-    margin: 0 0 0 8px;
-    background-color: #6b6b6b;
-    line-height: 2.5rem;
-    color: #efefef;
-    border-radius: 3px;
+    line-height: 3.1rem;
   }
 }

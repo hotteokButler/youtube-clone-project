@@ -2,13 +2,17 @@ import React from 'react';
 import HeaderInput from '../header_input/header_input';
 import styles from './header.module.css';
 
-const Header = () => {
+const Header = ({ onSearch }) => {
+  const onSearchEvent = (query) => {
+    onSearch(query);
+  };
+
   return (
     <header className={styles.header}>
       <h1 className={styles.logo}>
         <a href="">YouTube</a>
       </h1>
-      <HeaderInput />
+      <HeaderInput onSearch={onSearchEvent} />
       <ul className={styles.menuIcon}>
         <li>
           <a href="">
