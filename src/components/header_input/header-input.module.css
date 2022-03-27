@@ -1,0 +1,42 @@
+.inputForm {
+  width: 45%;
+  display: flex;
+  align-items: center;
+}
+.input {
+  width: 75%;
+  padding: 0.5rem 1rem;
+  border: 1px solid #efefef;
+  border-radius: 3px;
+}
+.inputButton {
+  width: calc(100% - 75% - 8px);
+  margin: 0 0 0 8px;
+  background-color: #6b6b6b;
+  line-height: 2.5rem;
+  color: #efefef;
+  border-radius: 3px;
+  opacity: 0.7;
+}
+.inputButton:hover {
+  opacity: 1;
+}
+@media (min-width: 786px) {
+  .inputForm {
+    width: 40%;
+  }
+  .input {
+    width: 85%;
+    padding: 0.5rem 1rem;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+  }
+  .inputButton {
+    width: calc(100% - 85% - 8px);
+    margin: 0 0 0 8px;
+    background-color: #6b6b6b;
+    line-height: 2.5rem;
+    color: #efefef;
+    border-radius: 3px;
+  }
+}

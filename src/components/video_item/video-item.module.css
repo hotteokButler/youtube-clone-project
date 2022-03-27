@@ -1,5 +1,6 @@
 .videoCard {
   display: flex;
+  width: 100%;
   margin: 0.7rem 0.5rem;
   flex-wrap: wrap;
   align-items: center;
@@ -14,10 +15,10 @@
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.12);
 }
 .thumbnailImg {
-  width: 40%;
+  width: 43%;
 }
 .descriptions {
-  width: calc(100% - 40%);
+  width: calc(100% - 43%);
   padding: 0 1rem;
 }
 .videoTitle {

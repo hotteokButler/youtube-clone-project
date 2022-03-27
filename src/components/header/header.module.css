@@ -1,0 +1,53 @@
+.header {
+  display: flex;
+  padding: 3% 2.5%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
+}
+.logo {
+  width: 25%;
+}
+.logo a {
+  display: block;
+  color: #232323;
+  padding: 0 0 0 35px;
+  background-image: url(../../../public/images/youtube_icon.png);
+  background-size: 30px auto;
+  background-position: left center;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-weight: 700;
+}
+.menuIcon {
+  width: 25%;
+  display: flex;
+  justify-content: flex-end;
+}
+.menuIcon li:hover {
+  opacity: 0.75;
+}
+.menuIcon li {
+  margin: 0 5px;
+}
+.menuIcon a {
+  display: block;
+  color: #3f3f3f;
+  font-size: 1.5rem;
+}
+.icon {
+  font-size: 1.3rem;
+}
+
+@media (min-width: 786px) {
+  .header {
+    padding: 1.5% 2%;
+    justify-content: space-between;
+  }
+  .menuIcon li {
+    margin: 0 12px;
+  }
+  .icon {
+    font-size: 1.8rem;
+  }
+}

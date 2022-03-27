@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './reset.css';
 import './index.css';
+import '@fortawesome/fontawesome-free/js/all.js';
 import App from './app.jsx';
 
 ReactDOM.render(
