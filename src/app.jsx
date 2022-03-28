@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/header/header';
 import VideoList from './components/video_list/video_list';
 import styles from './app.module.css';
+import VideoDetail from './components/video_detail/video_detail';
 
 /*
 - 패턴은 MVC, MVVM(안드로이드앱), MVI ,MVP 등 많이 있지만 궁극적 목적은 어플리케이션에서 조금 더 역할에 맞게
@@ -15,6 +16,11 @@ import styles from './app.module.css';
 
 function App({ youtubeApi }) {
   const [videos, setViedos] = useState([]);
+  const [selectedVideo, setSelectedVideo] = useState(null);
+
+  const selectVideo = (video) => {
+    setSelectedVideo(video);
+  };
 
   const search = (query) => {
     youtubeApi
@@ -36,9 +42,20 @@ function App({ youtubeApi }) {
   return (
     <>
       <Header onSearch={search} />
-      <section className={styles.mainVideoList}>
-        <VideoList videos={videos && videos} />
-      </section>
+      <div className={styles.content}>
+        {selectedVideo && (
+          <section className={styles.videoDetail}>
+            <VideoDetail video={selectedVideo} />
+          </section>
+        )}
+        <section className={styles.mainVideoList}>
+          <VideoList
+            videos={videos && videos}
+            onVideoClick={selectVideo}
+            display={selectedVideo ? 'list' : 'grid'}
+          />
+        </section>
+      </div>
     </>
   );
 }

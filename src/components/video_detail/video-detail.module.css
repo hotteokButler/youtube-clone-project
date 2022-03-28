@@ -1,0 +1,60 @@
+.detail {
+  position: relative;
+  padding: 1rem 0 0;
+}
+.video {
+  width: 100%;
+}
+.description {
+  padding: 1rem 0.5rem 3rem;
+  border-bottom: 1px solid #efefef;
+}
+.title {
+  margin: 0 0 0.5rem;
+  font-size: 1.5rem;
+  line-height: 1em;
+  font-weight: 500;
+}
+.publishedDate {
+  margin: 0 0 1rem;
+  padding: 0 0 1rem;
+  border-bottom: 1px solid #efefef;
+  font-size: 0.9rem;
+  color: #999;
+}
+.channelName {
+  margin: 0 0 2rem;
+  font-size: 1.2rem;
+  line-height: 1em;
+}
+.videoDetail {
+  font-weight: 400;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  color: #555;
+}
+.videoDetail.shorCut {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 5;
+}
+.moreButton {
+  position: absolute;
+  bottom: 1rem;
+  left: 0.5rem;
+  font-weight: 600;
+  color: #999;
+  text-decoration: underline;
+}
+@media (min-width: 1200px) {
+  .detail {
+    padding: 1.5rem 2rem;
+  }
+  .moreButton {
+    bottom: 2.5rem;
+    left: 2.5rem;
+  }
+}

@@ -1,14 +1,20 @@
 .videoCard {
   display: flex;
-  width: 100%;
-  margin: 0.7rem 0.5rem;
-  flex-wrap: wrap;
+  width: calc(50% - 1rem);
+  margin: 0.5rem;
+  flex-wrap: nowrap;
   align-items: center;
   border: 1px solid #efefef;
   border-radius: 3px;
   overflow: hidden;
   transition: 0.3s ease-out;
   cursor: pointer;
+}
+.videoCard.grid {
+  width: calc(50% - 1rem);
+}
+.videoCard.list {
+  width: 100%;
 }
 .videoCard:hover {
   transform: scale(1.02);
@@ -37,8 +43,9 @@
   color: #777;
 }
 
-@media (min-width: 768px) {
-  .videoCard {
-    width: calc(50% - 1rem);
+@media (max-width: 768px) {
+  .videoCard.grid,
+  .videoCard.list {
+    width: 100%;
   }
 }

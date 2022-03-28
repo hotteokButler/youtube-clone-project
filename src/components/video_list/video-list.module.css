@@ -1,4 +1,22 @@
 .videoList {
   display: flex;
   flex-wrap: wrap;
+  padding: 1rem 0;
+  justify-content: center;
+}
+.videoMore {
+  display: block;
+  width: 50%;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+  padding: 1.1rem 2rem;
+  text-align: center;
+  border: 1px solid #efefef;
+  border-radius: 3px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #7c7c7c;
+}
+.videoMore:hover {
+  background-color: #efefef;
 }
