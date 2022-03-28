@@ -15,28 +15,34 @@ class Youtube {
 
     //라이브러리 안에서 자동으로 json 변환
 
-    return await response.data.items;
+    return response.data.items;
   }
 
   async search(query) {
     const response = await this.youtubeClient.get('search', {
-      part: 'snippet',
-      type: 'video',
-      maxResults: '24',
-      q: query,
+      params: {
+        part: 'snippet',
+        type: 'video',
+        maxResults: '24',
+        q: query,
+      },
     });
 
     return response.data.items.map((item) => ({ ...item, id: item.id.videoId }));
   }
 
+  // 참고사이트 https://jacobgrowthstory.tistory.com/44
+
   async comments(videoId) {
     const response = await this.youtubeClient.get('commentThreads', {
-      part: 'snippet',
-      videoId: videoId,
-      maxResults: '20',
+      params: {
+        part: 'snippet',
+        videoId: videoId,
+        maxResults: '20',
+      },
     });
 
-    return response.data.item;
+    return response.data;
   }
 }
 
