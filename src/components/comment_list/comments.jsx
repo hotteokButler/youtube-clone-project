@@ -13,6 +13,7 @@ const Comments = ({ video, youtubeApi }) => {
 
   return (
     <section className={styles.comments}>
+      <h2 className={styles.commentTitle}>Comments</h2>
       <ul>
         {comments ? (
           comments.map((comment) => (
