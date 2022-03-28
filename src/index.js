@@ -8,6 +8,10 @@ import Youtube from './service/youtube';
 
 const apiKey = process.env.REACT_APP_KEY;
 const youtubeApi = new Youtube(apiKey);
+
+document.cookie = 'safeCookie1=foo; SameSite=Lax';
+document.cookie = 'safeCookie2=foo';
+document.cookie = 'crossCookie=bar; SameSite=None; Secure';
 /*
 이렇게하면 new Youtube()는 index.js가 호출되는 한번만 만들어져서 
 필요한 곳에다가 porps로 전달해주면된다

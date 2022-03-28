@@ -9,7 +9,7 @@ const Comments = ({ video, youtubeApi }) => {
       .comments(video.id) //
       .then((comments) => setComments(comments.items)) //
       .catch((error) => console.log(`Can't found`, error));
-  }, []);
+  }, [video]);
 
   return (
     <section className={styles.comments}>

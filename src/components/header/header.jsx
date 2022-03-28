@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { memo } from 'react';
 import HeaderInput from '../header_input/header_input';
 import styles from './header.module.css';
 
-const Header = ({ onSearch }) => {
+const Header = memo(({ onSearch }) => {
   const onSearchEvent = (query) => {
     onSearch(query);
   };
@@ -37,6 +37,6 @@ const Header = ({ onSearch }) => {
       </ul>
     </header>
   );
-};
+});
 
 export default Header;

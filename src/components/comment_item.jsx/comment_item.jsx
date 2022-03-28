@@ -4,6 +4,7 @@ import styles from './comment-item.module.css';
 const CommentItem = memo(({ topLevelComment: { snippet } }) => {
   const [moreViewButton, setMoreViewButton] = useState('자세히보기');
   const [replyStyle, setReplyStyle] = useState(`${styles.commentTxt} ${styles.moreView}`);
+
   const moreView = () => {
     if (moreViewButton === '자세히보기') {
       setReplyStyle(styles.commentTxt);

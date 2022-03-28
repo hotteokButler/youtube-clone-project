@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useCallback, useEffect, useState } from 'react';
 import Header from './components/header/header';
 import VideoList from './components/video_list/video_list';
 import styles from './app.module.css';
@@ -18,11 +18,17 @@ function App({ youtubeApi }) {
   const [videos, setViedos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
-  const selectVideo = (video) => {
-    setSelectedVideo(video);
-  };
 
-  const search = (query) => {
+  //useCallback은 캐싱을 통해 임시로 빈번히 업데이트가 필요없는 함수를 기억해두어 불필요한 업데이트를 방지하지만, 메모리에 저장되므로 자주사용하면 부하가 걸릴 수 있다
+  const selectVideo = useCallback(
+    (video) => {
+      console.log(video);
+      setSelectedVideo(video);
+    },
+    [videos]
+  );
+
+  const search = useCallback((query) => {
     youtubeApi
       .search(query) //
       .then((videos) => {
@@ -30,7 +36,7 @@ function App({ youtubeApi }) {
         setSelectedVideo(null);
       }) //
       .catch((error) => console.log('error', error));
-  };
+  }, []);
   /*
   useEffect(콜백,옵션) : 컴포넌트가 마운트될때마다, 업데이트될때마다 설정해둔 콜백함수가 실행됨
     -> 원하는 변수의 목록을 옵션에 적용하면 해당 목록이 업데이트될때만 실행됨!

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Comments from '../comment_list/comments';
 import styles from './video-detail.module.css';
 // rsi!!!!!
