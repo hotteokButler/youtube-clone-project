@@ -5,6 +5,8 @@ const Comments = ({ video, youtubeApi }) => {
   const [comments, setComments] = useState(null);
 
   useEffect(() => {
+    setComments(null);
+
     youtubeApi //
       .comments(video.id) //
       .then((comments) => setComments(comments.items)) //

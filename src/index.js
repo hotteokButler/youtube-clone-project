@@ -5,9 +5,14 @@ import './index.css';
 import '@fortawesome/fontawesome-free/js/all.js';
 import App from './app.jsx';
 import Youtube from './service/youtube';
+import axios from 'axios';
 
-const apiKey = process.env.REACT_APP_KEY;
-const youtubeApi = new Youtube(apiKey);
+const client = axios.create({
+  baseURL: 'https://youtube.googleapis.com/youtube/v3',
+  params: { key: process.env.REACT_APP_KEY },
+});
+
+const youtubeApi = new Youtube(client);
 
 document.cookie = 'safeCookie1=foo; SameSite=Lax';
 document.cookie = 'safeCookie2=foo';

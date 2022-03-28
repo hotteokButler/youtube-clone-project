@@ -1,35 +1,42 @@
 class Youtube {
-  constructor(key) {
-    this.key = key;
-    this.getRequestOptions = {
-      method: 'GET',
-      redirect: 'follow',
-    };
+  constructor(client) {
+    this.youtubeClient = client;
   }
 
   async mostPopular() {
-    const response = await fetch(
-      `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=24&regionCode=KR&key=${this.key}`,
-      this.getRequestOptions
-    );
-    return await response.json();
+    const response = await this.youtubeClient.get('videos', {
+      params: {
+        part: 'snippet',
+        chart: 'mostPopular',
+        maxResults: '24',
+        regionCode: 'KR',
+      },
+    });
+
+    //라이브러리 안에서 자동으로 json 변환
+
+    return await response.data.items;
   }
 
   async search(query) {
-    const response = await fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=24&q=${query}&key=${this.key}`,
-      this.getRequestOptions
-    );
-    const getJson = await response.json();
-    return getJson.items.map((item) => ({ ...item, id: item.id.videoId }));
+    const response = await this.youtubeClient.get('search', {
+      part: 'snippet',
+      type: 'video',
+      maxResults: '24',
+      q: query,
+    });
+
+    return response.data.items.map((item) => ({ ...item, id: item.id.videoId }));
   }
 
   async comments(videoId) {
-    const response = await fetch(
-      `https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=${videoId}&maxResults=20&key=${this.key}`,
-      this.getRequestOptions
-    );
-    return await response.json();
+    const response = await this.youtubeClient.get('commentThreads', {
+      part: 'snippet',
+      videoId: videoId,
+      maxResults: '20',
+    });
+
+    return response.data.item;
   }
 }
 

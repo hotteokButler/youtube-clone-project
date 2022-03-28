@@ -18,11 +18,9 @@ function App({ youtubeApi }) {
   const [videos, setViedos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
-
   //useCallback은 캐싱을 통해 임시로 빈번히 업데이트가 필요없는 함수를 기억해두어 불필요한 업데이트를 방지하지만, 메모리에 저장되므로 자주사용하면 부하가 걸릴 수 있다
   const selectVideo = useCallback(
     (video) => {
-      console.log(video);
       setSelectedVideo(video);
     },
     [videos]
@@ -44,7 +42,7 @@ function App({ youtubeApi }) {
   useEffect(() => {
     youtubeApi
       .mostPopular() //
-      .then((result) => setViedos(result.items)) //
+      .then((result) => setViedos(result)) //
       .catch((error) => console.log('error', error));
   }, []);
 
