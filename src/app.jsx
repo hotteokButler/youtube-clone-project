@@ -25,7 +25,10 @@ function App({ youtubeApi }) {
   const search = (query) => {
     youtubeApi
       .search(query) //
-      .then((result) => setViedos(result)) //
+      .then((videos) => {
+        setViedos(videos);
+        setSelectedVideo(null);
+      }) //
       .catch((error) => console.log('error', error));
   };
   /*
@@ -45,7 +48,7 @@ function App({ youtubeApi }) {
       <div className={styles.content}>
         {selectedVideo && (
           <section className={styles.videoDetail}>
-            <VideoDetail video={selectedVideo} />
+            <VideoDetail video={selectedVideo} youtubeApi={youtubeApi} />
           </section>
         )}
         <section className={styles.mainVideoList}>

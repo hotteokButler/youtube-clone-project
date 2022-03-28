@@ -23,6 +23,14 @@ class Youtube {
     const getJson = await response.json();
     return getJson.items.map((item) => ({ ...item, id: item.id.videoId }));
   }
+
+  async comments(videoId) {
+    const response = await fetch(
+      `https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=${videoId}&maxResults=20&key=${this.key}`,
+      this.getRequestOptions
+    );
+    return await response.json();
+  }
 }
 
 export default Youtube;

@@ -1,0 +1,54 @@
+.comment {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid #efefef;
+}
+.profileImg {
+  width: 40px;
+  height: 40px;
+  margin: 0 10px 0 0;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.textBox {
+  width: calc(100% - 80px);
+  padding: 0 0.2rem;
+}
+.name {
+  margin: 0 0 5px;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.commentTxt {
+  display: -webkit-box;
+  margin: 0 0 5px;
+  white-space: pre-wrap;
+  line-height: 1.5em;
+}
+.commentTxt.moreView {
+  -webkit-box-orient: vertical;
+  word-wrap: break-word;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+}
+.like {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.like button {
+  display: inline-block;
+  margin: 0 8px 0 0;
+}
+.reply,
+.more {
+  color: #999;
+  text-decoration: underline;
+}
+
+.button {
+  width: 30px;
+}
