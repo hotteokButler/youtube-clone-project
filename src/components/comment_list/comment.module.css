@@ -1,0 +1,13 @@
+.noReply {
+  padding: 1.5rem 0;
+  font-size: 2rem;
+  line-height: 1em;
+  font-weight: 600;
+  color: #999;
+}
+
+@media (min-width: 1200px) {
+  .comments {
+    padding: 1.5rem 2rem;
+  }
+}
